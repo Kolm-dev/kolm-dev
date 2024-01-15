@@ -4,8 +4,6 @@
 <!-- Languages and Tools -->
 <h5 align="center">Languages and Tools:</h5>
 
-<h1 align="center">Hi everyone, I'm Ruslan 👋🏻</h1>
-<h3 align="center">Frontend developer from Kyiv, Ukraine 🇺🇦</h3>
 
 <!-- Frontend Technologies -->
 <h6 align="center">Frontend</h6>
