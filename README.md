@@ -1,9 +1,9 @@
 <h1 align="center">Hi everyone, I'm Ruslan 👋🏻</h1>
-<h3 align="center">Frontend developer from Kyiv, Ukraine 🇺🇦</h3>
+<h3 align="center">I'm from Kyiv, Ukraine 🇺🇦</h3>
+
 </br>
 <!-- Languages and Tools -->
 <h5 align="center">Languages and Tools:</h5>
-
 
 <!-- Frontend Technologies -->
 <h6 align="center">Frontend</h6>
@@ -46,6 +46,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
   <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="45"/>
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
 </p>
 
 </br>
