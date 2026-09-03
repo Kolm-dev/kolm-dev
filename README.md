@@ -52,6 +52,12 @@ Full-stack application for fleet and delivery management.
 
 `React` `TypeScript` `TanStack Query` `Laravel` `MySQL`
 
+### ⌨️ [TypeCheck](https://github.com/Kolm-dev/Type-Check)
+
+Checker typing speed with mobile and desktop adaptation.
+
+`React` `TypeScript` ` Redux Toolkit` `Bootstrap` `Semantic UI React` `SCSS`
+
 ### ♟️ [Checkers](https://github.com/Kolm-dev/Checkers-Next.js)
 
 Checkers game with move validation, captures, turn management and game-state logic.
